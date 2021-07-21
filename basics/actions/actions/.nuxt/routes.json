@@ -1,0 +1,8 @@
+[
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/khodis/vue-js/basics/actions/actions/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]
